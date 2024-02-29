@@ -1,0 +1,7 @@
+setup.py
+GitSwitchAuther.egg-info/PKG-INFO
+GitSwitchAuther.egg-info/SOURCES.txt
+GitSwitchAuther.egg-info/dependency_links.txt
+GitSwitchAuther.egg-info/entry_points.txt
+GitSwitchAuther.egg-info/requires.txt
+GitSwitchAuther.egg-info/top_level.txt
